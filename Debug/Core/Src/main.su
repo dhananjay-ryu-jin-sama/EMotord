@@ -1,0 +1,7 @@
+../Core/Src/main.c:71:5:main	104	static
+../Core/Src/main.c:154:6:SystemClock_Config	72	static
+../Core/Src/main.c:193:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:227:6:StartRedLight	16	static
+../Core/Src/main.c:246:6:StartGreenLight	16	static
+../Core/Src/main.c:265:6:StartBlueLight	16	static
+../Core/Src/main.c:281:6:Error_Handler	4	static,ignoring_inline_asm

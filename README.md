@@ -1,6 +1,6 @@
 # Hi
 
-The name of the project is called pokemon.
+The name of the project is called led_lcd and the main.c file is present in Core -> Src.
 
 Thank you for considering my application for this internship. I've posted my solution to the problem statements, as well as the testing features in the code.
 
